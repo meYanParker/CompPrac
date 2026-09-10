@@ -107,7 +107,8 @@ int main() {
     unsigned int val;
 
     while (true) {
-        std::cout << "\n--- МЕНЮ ОЧЕРЕДИ ---\n";
+        std::cout << "\nNEW 67 67 67 burmalda\n"; // NEW
+//        std::cout << "\n--- МЕНЮ ОЧЕРЕДИ ---\n"; OLD 
         std::cout << "1. Добавить (Enqueue)\n2. Удалить (Dequeue)\n3. Показать все\n";
         std::cout << "4. Очистить\n5. Тест Move (в q2)\n";
         std::cout << "6. Проверка на пустоту\n0. Выход\n ---- Ваш выбор \n";
